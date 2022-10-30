@@ -1,0 +1,6 @@
+.skillcont {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  margin: 20px;
+}

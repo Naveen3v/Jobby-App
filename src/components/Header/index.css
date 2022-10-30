@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+  background-color: #272727;
+  background-size: cover;
+}
+.navimage {
+  height: 40px;
+  width: 90px;
+}
+.listcontainer {
+  list-style: none;
+  display: flex;
+  padding: 20px;
+  margin: 20px;
+}
+.btnnav {
+  color: #f8fafc;
+  background-color: #4f46e5;
+  padding: 10px;
+}
+.navheading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: antiquewhite;
+  font-weight: bold;
+  margin: 10px;
+  list-style: none;
+}

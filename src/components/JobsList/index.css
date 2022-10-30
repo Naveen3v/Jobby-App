@@ -1,0 +1,39 @@
+.jlcontainer {
+  display: flex;
+  flex-direction: column;
+}
+.logocont {
+  display: flex;
+  flex-direction: row;
+}
+.innerlogo {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+.locationcont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.jlrating {
+  display: flex;
+  flex-direction: row;
+}
+.location {
+  display: flex;
+  flex-direction: row;
+}
+.fill-icon {
+  height: 24px;
+  width: 24px;
+  color: gold;
+  margin-right: 6px;
+}
+.jlpara {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.line {
+  color: gold;
+}

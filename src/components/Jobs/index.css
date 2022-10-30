@@ -1,0 +1,31 @@
+.jobscontainer {
+  display: flex;
+  flex-direction: row;
+}
+.leftcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.rightcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.imagecontainer {
+  display: flex;
+  flex-direction: column;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  justify-content: flex-start;
+  align-items: center;
+}
+.jobslistcontainer {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+.profileimage {
+  height: 30px;
+  width: 30px;
+}

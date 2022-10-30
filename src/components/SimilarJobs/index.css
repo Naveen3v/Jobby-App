@@ -1,0 +1,22 @@
+.scontainer {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+.simagecontainer {
+  display: flex;
+  flex-direction: row;
+}
+.simage {
+  height: 50px;
+  width: 50px;
+}
+.stitle {
+  display: flex;
+  flex-direction: column;
+}
+.slist {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
